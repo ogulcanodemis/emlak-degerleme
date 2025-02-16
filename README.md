@@ -122,5 +122,5 @@ npm start
 
 ## İletişim
 
-Proje sorumlusu: [İsim Soyisim](mailto:ogulcan.odemis28@gmail.com) 
+Proje sorumlusu: [Oğulcan İzzet Ödemiş](mailto:ogulcan.odemis28@gmail.com) 
 linkedin: [ogulcanodemis](https://www.linkedin.com/in/ogulcanodemiss/)
